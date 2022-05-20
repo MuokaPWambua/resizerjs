@@ -1,0 +1,22 @@
+{
+  "name": "@muoka/resizerjs",
+  "version": "1.0.0",
+  "description": "resizes images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "muokapwambua"
+  },
+  "keywords": [
+    "resize",
+    "image resize",
+    "muoka",
+    "resizerjs"
+
+  ],
+  "author": "patrick muoka",
+  "license": "ISC"
+}
